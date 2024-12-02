@@ -1,10 +1,10 @@
-   **#Base de datos relacionales**
+   # Base de datos relacionales
 
 Una base de datos relacional es una estructura que organiza datos en tablas, filas y columnas, con el objetivo de facilitar la comprensión de las relaciones entre los datos.
 
 
 
-##Repositorio del Curso de Bases de Datos Relacionales
+## Repositorio del Curso de Bases de Datos Relacionales
 
 
 Este repositorio contiene el material, ejercicios y actividades realizados durante el curso de Bases de Datos Relacionales del año 2024. Este curso fue impartido por el profesor Sr. Carlos Delgado.
@@ -17,7 +17,7 @@ Proyectos y Actividades: Documentación y códigos fuente de proyectos realizado
 
 
 
-###Objetivos del Curso:
+### Objetivos del Curso:
 Entender los fundamentos de las bases de datos relacionales y su importancia en la gestión de datos.
 
 Aprender a diseñar esquemas de bases de datos eficientes y normalizados.
@@ -27,14 +27,14 @@ Desarrollar habilidades en SQL para la creación, consulta y manipulación de ba
 Conocer las mejores prácticas en la gestión y mantenimiento de bases de datos.
 
 
-**##Requisitos Previos**
+## Requisitos Previos
 Antes de comenzar a ejecutar los scripts y ejercicios contenidos en este repositorio, asegúrate de contar con lo siguiente:
 
 - Herramientas de Base de Datos: Un sistema de gestión de bases de datos como MySQL o PostgreSQL debe estar instalado en tu máquina.
 
 - Conocimientos Básicos: Familiaridad con el lenguaje SQL y comprensión del modelo relacional.
 
-**##Configuración Recomendada:**
+## Configuración Recomendada:
 
 - Programizz: Utiliza la página web de Programizz para realizar los primeros ejercicios y ejemplos.
 
